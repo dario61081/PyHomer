@@ -1,0 +1,8 @@
+{
+  "name": "PyHomer",
+  "version": "1.0.0",
+  "description": "Personal home page for your server",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "DR2GSistemas"
+}
