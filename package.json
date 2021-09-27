@@ -1,8 +1,16 @@
 {
-  "name": "PyHomer",
-  "version": "1.0.0",
-  "description": "Personal home page for your server",
-  "main": "index.js",
-  "license": "MIT",
-  "author": "DR2GSistemas"
+     "name": "PyHomer",
+     "version": "1.0.0",
+     "description": "Personal home page for your server",
+     "main": "index.js",
+     "license": "MIT",
+     "author": "DR2GSistemas",
+     "devDependencies": {
+          "gulp": "^3.5.0",
+          "gulp-cli": "^2.3.0",
+          "gulp-download": "^0.0.1",
+          "gulp-npm-dist": "^1.0.3",
+          "gulp-sass": "^5.0.0",
+          "node-sass": "^6.0.1"
+     }
 }
